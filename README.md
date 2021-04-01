@@ -4,4 +4,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammad4kh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad4kh&theme=tokyonight" />
 </p>
+![Image of Yaktocat](https://github-readme-streak-stats.herokuapp.com/?user=mohammad4kh&theme=tokyonight)
 🌱 I’m currently learning **Django**

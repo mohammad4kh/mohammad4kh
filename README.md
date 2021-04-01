@@ -4,7 +4,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammad4kh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad4kh&theme=tokyonight" />
 </p>
-<p>🌱 I’m currently learning *Django*</p>
+<p>🌱 I’m currently learning * Django *</p>
 <!--
 **mohammad4kh/mohammad4kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
